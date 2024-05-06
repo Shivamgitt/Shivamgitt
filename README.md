@@ -1,7 +1,7 @@
 <h1 align="center">
 Hi, I'm Shivam Verma!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <img src="https://komarev.com/ghpvc/?username=yashitanamdeo&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="Shivamgitt" />
+ <img src="https://komarev.com/ghpvc/?username=Shivamgitt&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="Shivamgitt" />
 <!--  <img src="https://gpvc.arturio.dev/yashitanamdeo" alt="Profile views" align='right'/> <a href="https://github.com/yashitanamdeo/yashitanamdeo/"> </a> update  -->
 
 <br/>
@@ -43,7 +43,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 
 <p>
     <a href="#"><img alt="Robot Framework" src="https://img.shields.io/badge/-Arduino-00979D?logo=Robot&logoColor=white"></a>
-    <a href="#"><img alt="Cucumber Framework" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Cucumber&logoColor=white"></a>
+    <a href="#"><img alt="Cucumber Framework" src="https://img.shields.io/badge/robotframework.svg?logo=Cucumber&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting

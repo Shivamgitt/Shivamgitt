@@ -36,17 +36,9 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="Python" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="Selenium" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 
-### 🧰 Frameworks and Libraries
-
-<p>
-    <a href="#"><img alt="Robot Framework" src="https://img.shields.io/badge/-Arduino-00979D?logo=Robot&logoColor=white"></a>
-    <a href="#"><img alt="Cucumber Framework" src="https://img.shields.io/badge/robotframework.svg?logo=Cucumber&logoColor=white"></a>
-</p>
-
-### 🗄️ Databases and Cloud Hosting
+### 🗄️ Databases
 
 <p>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>

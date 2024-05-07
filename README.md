@@ -22,9 +22,7 @@
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
 ![Python](http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white)
 ![Mysql](http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql)
-
-![Spark](http://img.shields.io/badge/-Spark-white?style=flat-square&logo=apachespark)
-![ElasticSearch](http://img.shields.io/badge/-ElasticSearch-white?style=flat-square&logo=elasticsearch&logoColor=black)
+![Selenium](https://img.shields.io/badge/-Selenium-346e9e?style=flat-square&logo=selenium&logoColor=white)
 
 
 ![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)

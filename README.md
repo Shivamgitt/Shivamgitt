@@ -79,8 +79,9 @@ Passionate about uncovering bugs and enhancing user experiences through meticulo
   <br/>
 <!-- 	[![Yashita's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashitanamdeo)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
    <a href="https://github.com/Shivamgitt/github-readme-activity-graph"><img alt="Shivam's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shivamgitt&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-   <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+  <a href="https://github.com/Shivamgitt/github-readme-activity-graph">
+  <img alt="Shivam's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shivamgitt&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF">
+</a>
   <br/>
 </details>
 

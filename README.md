@@ -43,24 +43,9 @@
   <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamgitt&theme=highcontrast&layout=compact&langs_count=10" /></span>
 </div>
 <div>
-  <a href="https://github.com/yuebaix/pangu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=pangu" />
-  </a>
-    <a href="https://github.com/yuebaix/nezha">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=nezha" />
-  </a>
-  <a href="https://github.com/yuebaix/hongjun">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=hongjun" />
-  </a>
-  <a href="https://github.com/yuebaix/luya">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=luya" />
-  </a>
-    <a href="https://github.com/yuebaix/nvwa">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=nvwa" />
-  </a>
 </div>
 
 -----
-Credits: [yuebaix](https://github.com/yuebaix)
+Credits: [Shivamgitt](https://github.com/Shivamgitt)
 
 Last Edited on: 24/09/2021

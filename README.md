@@ -45,5 +45,3 @@
 
 -----
 Credits: [Shivamgitt](https://github.com/Shivamgitt)
-
-Last Edited on: 24/09/2021
